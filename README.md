@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahmudov Soltan</h1>
 <h3 align="center">A passionate frontend (React.js) developer from Azeribaijan</h3>
 
-- 🔭 I’m currently working on **Evo Academy**
 
-- 🌱 I’m currently learning **Ract.js and TaypSctipt**
+
+- 🌱 I’m currently learning **Mext.js and TaypSctipt**
 
 - 💬 Ask me about **React.js ,HTML,CSS,JavaScript,Talwind css,Bootstrap**
 
