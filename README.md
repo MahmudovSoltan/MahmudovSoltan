@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Mext.js and TaypSctipt**
+- 🌱 I’m currently learning **Next.js and TaypSctipt**
 
 - 💬 Ask me about **React.js ,HTML,CSS,JavaScript,Talwind css,Bootstrap**
 
