@@ -17,9 +17,7 @@
 <a href="https://fb.com/soltan.mahmudovs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Soltan Mahmudov" height="30" width="40" /></a>
 <a href="https://instagram.com/soltan___41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soltan___41" height="30" width="40" /></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudovsoltan&show_icons=true&locale=en&layout=compact" alt="mahmudovsoltan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmudovsoltan&show_icons=true&locale=en" alt="mahmudovsoltan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudovsoltan&" alt="mahmudovsoltan" /></p>
 
